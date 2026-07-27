@@ -1,0 +1,1 @@
+This project implements a complete EEG signal processing pipeline for Steady-State Visual Evoked Potential (SSVEP)-based Brain-Computer Interface (BCI) using the EMOTIV EPOC X headset. The system distinguishes user attention between 10 Hz and 12 Hz visual stimuli through machine learning and correlation-based methods
